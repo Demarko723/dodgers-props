@@ -1,0 +1,21 @@
+Write a 60-90 second voiceover script for a short-form video recapping the
+Los Angeles Dodgers hitters from September 22 (vs San Diego Padres).
+
+Rules:
+- Use ONLY the facts below. Do not invent stats, injuries, or context.
+- Lead with the biggest story (best performance or most surprising prop result).
+- For each prop mentioned, say the odds and what the implied probability means in plain words.
+- Plus-money props that cashed and heavy favorites that missed are the most interesting — prioritize them.
+- Frame as a recap of what happened, not betting advice or tomorrow's picks.
+- Conversational, punchy, no filler. End with a one-line hook to follow for tomorrow's recap.
+
+Facts:
+- Mookie Betts: 1-for-4, 2B, RBI, R, BB.
+- Freddie Freeman: 2-for-4, 3 RBI.
+- Will Smith: 1-for-4, HR, RBI, R.
+- Max Muncy: 0-for-4.
+- Kyle Tucker: 1-for-4.
+- Teoscar Hernández: 1-for-4, R.
+- Josue De Paula: 2-for-3, 3B, R, BB.
+- Andy Pages: 0-for-2, R, BB.
+- Tommy Edman: 1-for-3, HR, 2 RBI, 2 R, BB.
