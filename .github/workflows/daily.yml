@@ -1,0 +1,53 @@
+name: Dodgers props
+
+on:
+  schedule:
+    # Times are UTC. Every 30 min from ~11am to ~11:30pm ET: grab lines ~75 min before first pitch.
+    - cron: "*/30 15-23 * * *"
+    - cron: "*/30 0-3 * * *"
+    # 8:00am ET (12:00 UTC): grade yesterday's props against the box score.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "pregame or recap"
+        default: "recap"
+      date:
+        description: "Recap date YYYY-MM-DD (blank = yesterday)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dodgers-props
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pregame lines
+        if: (github.event_name == 'schedule' && github.event.schedule != '0 12 * * *') || (github.event_name == 'workflow_dispatch' && inputs.task == 'pregame')
+        run: python3 dodgers_props.py pregame ${{ github.event_name == 'schedule' && '--auto' || '' }}
+
+      - name: Recap
+        if: (github.event_name == 'schedule' && github.event.schedule == '0 12 * * *') || (github.event_name == 'workflow_dispatch' && inputs.task == 'recap')
+        run: python3 dodgers_props.py recap ${{ inputs.date && format('--date {0}', inputs.date) || '' }}
+
+      - name: Save results to the repo
+        run: |
+          git config user.name "props-bot"
+          git config user.email "props-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Update Dodgers props $(date +%F)"
+            git push
+          fi
