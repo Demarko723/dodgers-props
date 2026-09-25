@@ -1,0 +1,63 @@
+date,opponent,player,stat_line,prop,odds,book,implied_prob,actual,result
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",1+ Hits,-236,draftkings,0.702,2,cashed
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",1+ Singles,+113,draftkings,0.469,1,cashed
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",2+ Total Bases,+107,draftkings,0.483,3,cashed
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",2+ Home Runs,+2200,betrivers,0.043,0,missed
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",1+ RBIs,+158,draftkings,0.388,1,cashed
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",1+ Runs,-122,draftkings,0.55,0,missed
+2026-09-24,San Diego Padres,Shohei Ohtani,"2-for-5, 2B, RBI",2+ H+R+RBI,-138,draftkings,0.58,3,cashed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",1+ Hits,-204,draftkings,0.671,3,cashed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",1+ Singles,+101,draftkings,0.498,2,cashed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",2+ Total Bases,+137,draftkings,0.422,4,cashed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",2+ Home Runs,+6000,betrivers,0.016,0,missed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",1+ RBIs,+198,draftkings,0.336,0,missed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",1+ Runs,+111,draftkings,0.474,1,cashed
+2026-09-24,San Diego Padres,Mookie Betts,"3-for-4, 2B, R, BB",2+ H+R+RBI,-108,draftkings,0.519,4,cashed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,1+ Hits,-206,draftkings,0.673,2,cashed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,1+ Singles,-103,draftkings,0.507,2,cashed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,2+ Total Bases,+139,draftkings,0.418,2,cashed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,2+ Home Runs,+6000,betrivers,0.016,0,missed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,1+ RBIs,+187,draftkings,0.348,0,missed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,1+ Runs,+121,draftkings,0.452,0,missed
+2026-09-24,San Diego Padres,Freddie Freeman,2-for-4,2+ H+R+RBI,-109,draftkings,0.522,2,cashed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,1+ Hits,-214,draftkings,0.682,0,missed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,1+ Singles,+119,draftkings,0.457,0,missed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,2+ Total Bases,+114,draftkings,0.467,0,missed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,2+ Home Runs,+3000,betrivers,0.032,0,missed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,1+ RBIs,+140,draftkings,0.417,0,missed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,1+ Runs,+105,draftkings,0.488,0,missed
+2026-09-24,San Diego Padres,Teoscar Hernández,0-for-3,2+ H+R+RBI,-121,draftkings,0.548,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,1+ Hits,-154,draftkings,0.606,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,1+ Singles,+131,draftkings,0.433,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,1+ Total Bases,-160,betmgm,0.615,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,2+ Home Runs,+9000,betrivers,0.011,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,1+ RBIs,+221,draftkings,0.312,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,1+ Runs,+130,draftkings,0.435,0,missed
+2026-09-24,San Diego Padres,Kyle Tucker,0-for-4,2+ H+R+RBI,+117,draftkings,0.461,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,1+ Hits,-142,draftkings,0.587,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,1+ Singles,+155,draftkings,0.392,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,1+ Total Bases,-125,betmgm,0.556,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,2+ Home Runs,+5000,betrivers,0.02,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,1+ RBIs,+199,draftkings,0.334,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,1+ Runs,+126,draftkings,0.442,0,missed
+2026-09-24,San Diego Padres,Max Muncy,0-for-3,2+ H+R+RBI,+118,draftkings,0.459,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",1+ Hits,-202,draftkings,0.669,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",1+ Singles,+110,draftkings,0.476,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",2+ Total Bases,+132,draftkings,0.431,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",2+ Home Runs,+4000,betrivers,0.024,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",1+ RBIs,+181,draftkings,0.356,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",1+ Runs,+126,draftkings,0.442,0,missed
+2026-09-24,San Diego Padres,Andy Pages,"0-for-3, BB",2+ H+R+RBI,-106,draftkings,0.515,0,missed
+2026-09-24,San Diego Padres,Hunter Feduccia,0-for-4,1+ Hits,+104,draftkings,0.49,0,missed
+2026-09-24,San Diego Padres,Hunter Feduccia,0-for-4,1+ Singles,+176,draftkings,0.362,0,missed
+2026-09-24,San Diego Padres,Hunter Feduccia,0-for-4,1+ Total Bases,-102,betonlineag,0.505,0,missed
+2026-09-24,San Diego Padres,Hunter Feduccia,0-for-4,1+ RBIs,+343,draftkings,0.226,0,missed
+2026-09-24,San Diego Padres,Hunter Feduccia,0-for-4,1+ Runs,+201,draftkings,0.332,0,missed
+2026-09-24,San Diego Padres,Hunter Feduccia,0-for-4,1+ H+R+RBI,-126,draftkings,0.558,0,missed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",1+ Hits,-159,draftkings,0.614,0,missed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",1+ Singles,+114,draftkings,0.467,0,missed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",1+ Total Bases,-135,betmgm,0.574,0,missed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",2+ Home Runs,+8000,betrivers,0.012,0,missed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",1+ RBIs,+260,draftkings,0.278,0,missed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",1+ Runs,+150,draftkings,0.4,1,cashed
+2026-09-24,San Diego Padres,Tommy Edman,"0-for-4, R",2+ H+R+RBI,+119,draftkings,0.457,1,missed
