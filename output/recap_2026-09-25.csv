@@ -1,0 +1,64 @@
+date,opponent,player,stat_line,prop,odds,book,implied_prob,actual,result
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,2+ Hits,+181,draftkings,0.356,0,missed
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,1+ Singles,-102,draftkings,0.505,0,missed
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,2+ Total Bases,-123,draftkings,0.552,0,missed
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,2+ Home Runs,+2000,betrivers,0.048,0,missed
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,1+ RBIs,+124,draftkings,0.446,0,missed
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,1+ Runs,-176,draftkings,0.638,0,missed
+2026-09-25,San Francisco Giants,Shohei Ohtani,0-for-4,3+ H+R+RBI,-101,draftkings,0.502,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",2+ Hits,+185,draftkings,0.351,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",1+ Singles,-140,draftkings,0.583,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",2+ Total Bases,+105,draftkings,0.488,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",2+ Home Runs,+12500,betrivers,0.008,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",1+ RBIs,+178,draftkings,0.36,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",1+ Runs,-111,draftkings,0.526,0,missed
+2026-09-25,San Francisco Giants,Mookie Betts,"0-for-3, BB",2+ H+R+RBI,-153,draftkings,0.605,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,2+ Hits,+200,draftkings,0.333,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,1+ Singles,-137,draftkings,0.578,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,2+ Total Bases,+114,draftkings,0.467,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,2+ Home Runs,+9000,betrivers,0.011,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,1+ RBIs,+157,draftkings,0.389,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,1+ Runs,+100,draftkings,0.5,0,missed
+2026-09-25,San Francisco Giants,Freddie Freeman,0-for-4,2+ H+R+RBI,-147,draftkings,0.595,0,missed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,1+ Hits,-253,draftkings,0.717,3,cashed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,1+ Singles,-121,draftkings,0.548,3,cashed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,2+ Total Bases,+118,draftkings,0.459,3,cashed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,2+ Home Runs,+6000,betrivers,0.016,0,missed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,1+ RBIs,+144,draftkings,0.41,0,missed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,1+ Runs,+102,draftkings,0.495,0,missed
+2026-09-25,San Francisco Giants,Will Smith,3-for-4,2+ H+R+RBI,-140,draftkings,0.583,3,cashed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,1+ Hits,-220,draftkings,0.688,0,missed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,1+ Singles,-106,draftkings,0.515,0,missed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,2+ Total Bases,+128,draftkings,0.439,0,missed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,2+ Home Runs,+8000,betrivers,0.012,0,missed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,1+ RBIs,+147,draftkings,0.405,0,missed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,1+ Runs,+103,draftkings,0.493,0,missed
+2026-09-25,San Francisco Giants,Kyle Tucker,0-for-4,2+ H+R+RBI,-130,draftkings,0.565,0,missed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",1+ Hits,-211,draftkings,0.678,1,cashed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",1+ Singles,-115,draftkings,0.535,0,missed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",2+ Total Bases,+140,draftkings,0.417,4,cashed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",2+ Home Runs,+9000,betrivers,0.011,1,missed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",1+ RBIs,+152,draftkings,0.397,1,cashed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",1+ Runs,+116,draftkings,0.463,1,cashed
+2026-09-25,San Francisco Giants,Teoscar Hernández,"1-for-4, HR, RBI, R",2+ H+R+RBI,-122,draftkings,0.55,3,cashed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,1+ Hits,-184,draftkings,0.648,0,missed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,1+ Singles,+125,draftkings,0.444,0,missed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,2+ Total Bases,+135,draftkings,0.426,0,missed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,2+ Home Runs,+5000,betrivers,0.02,0,missed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,1+ RBIs,+168,draftkings,0.373,0,missed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,1+ Runs,+106,draftkings,0.485,0,missed
+2026-09-25,San Francisco Giants,Max Muncy,0-for-3,2+ H+R+RBI,-110,draftkings,0.524,0,missed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",1+ Hits,-207,draftkings,0.674,2,cashed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",1+ Singles,-115,draftkings,0.535,1,cashed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",2+ Total Bases,+151,draftkings,0.398,5,cashed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",2+ Home Runs,+9000,betrivers,0.011,1,missed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",1+ RBIs,+192,draftkings,0.342,1,cashed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",1+ Runs,+126,draftkings,0.442,1,cashed
+2026-09-25,San Francisco Giants,Andy Pages,"2-for-3, HR, RBI, R, SB",2+ H+R+RBI,-111,draftkings,0.526,4,cashed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,1+ Hits,-150,draftkings,0.6,1,cashed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,1+ Singles,+119,draftkings,0.457,1,cashed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,1+ Total Bases,-140,betmgm,0.583,1,cashed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,1+ Home Runs,+1100,betrivers,0.083,0,missed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,1+ RBIs,+231,draftkings,0.302,0,missed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,1+ Runs,+142,draftkings,0.413,0,missed
+2026-09-25,San Francisco Giants,Enrique Hernández,1-for-3,2+ H+R+RBI,+114,draftkings,0.467,1,missed
