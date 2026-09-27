@@ -1,0 +1,24 @@
+Write a 60-90 second voiceover script for a short-form video recapping the
+Los Angeles Dodgers hitters from September 26 (@ San Francisco Giants).
+
+Rules:
+- Use ONLY the facts below. Do not invent stats, injuries, or context.
+- Lead with the biggest story (best performance or most surprising prop result).
+- For each prop mentioned, say the odds and what the implied probability means in plain words.
+- Plus-money props that cashed and heavy favorites that missed are the most interesting — prioritize them.
+- Frame as a recap of what happened, not betting advice or tomorrow's picks.
+- Conversational, punchy, no filler. End with a one-line hook to follow for tomorrow's recap.
+
+Facts:
+- Mookie Betts: 1-for-5, HR, RBI, R. Props: 2+ Hits at +193 (34% implied) missed; 1+ Singles at -147 (60% implied) missed; 2+ Total Bases at +113 (47% implied) CASHED; 2+ Home Runs at +11000 (1% implied) missed; 1+ RBIs at +202 (33% implied) CASHED; 1+ Runs at -117 (54% implied) CASHED; 2+ H+R+RBI at -150 (60% implied) CASHED.
+- Shohei Ohtani: 1-for-5. Props: 2+ Hits at +180 (36% implied) missed; 1+ Singles at -113 (53% implied) CASHED; 2+ Total Bases at -112 (53% implied) missed; 2+ Home Runs at +1800 (5% implied) missed; 1+ RBIs at +134 (43% implied) missed; 1+ Runs at -130 (57% implied) missed; 3+ H+R+RBI at +117 (46% implied) missed.
+- Will Smith: 1-for-3, R. Props: 1+ Hits at -228 (70% implied) CASHED; 1+ Singles at -109 (52% implied) CASHED; 2+ Total Bases at +122 (45% implied) missed; 1+ RBIs at +165 (38% implied) missed; 1+ Runs at +111 (47% implied) CASHED; 2+ H+R+RBI at -124 (55% implied) CASHED.
+- Dalton Rushing: 0-for-1.
+- Hunter Feduccia: 0-for-1. Props: 1+ Hits at -156 (61% implied) missed; 1+ Total Bases at -149 (60% implied) missed.
+- Teoscar Hernández: 1-for-3, 2B. Props: 1+ Hits at -231 (70% implied) CASHED; 1+ Singles at -104 (51% implied) missed; 2+ Total Bases at +118 (46% implied) CASHED; 2+ Home Runs at +3500 (3% implied) missed; 1+ RBIs at +150 (40% implied) missed; 1+ Runs at +105 (49% implied) missed; 2+ H+R+RBI at -129 (56% implied) missed.
+- Alex Call: 0-for-1.
+- Kyle Tucker: 1-for-3, R, BB. Props: 1+ Hits at -219 (69% implied) CASHED; 1+ Singles at -105 (51% implied) CASHED; 2+ Total Bases at +133 (43% implied) missed; 2+ Home Runs at +9000 (1% implied) missed; 1+ RBIs at +178 (36% implied) missed; 1+ Runs at +110 (48% implied) CASHED; 2+ H+R+RBI at -124 (55% implied) CASHED.
+- Miguel Rojas: 1-for-3, RBI, BB. Props: 1+ Hits at -166 (62% implied) CASHED; 1+ Singles at +107 (48% implied) CASHED; 1+ Total Bases at -150 (60% implied) CASHED; 1+ RBIs at +233 (30% implied) CASHED; 1+ Runs at +154 (39% implied) missed; 2+ H+R+RBI at +113 (47% implied) CASHED.
+- Andy Pages: 0-for-3, BB. Props: 1+ Hits at -212 (68% implied) missed; 1+ Singles at -104 (51% implied) missed; 2+ Total Bases at +134 (43% implied) missed; 2+ Home Runs at +4500 (2% implied) missed; 1+ RBIs at +165 (38% implied) missed; 1+ Runs at +111 (47% implied) missed; 2+ H+R+RBI at -117 (54% implied) missed.
+- Enrique Hernández: 1-for-4, HR, RBI, R. Props: 1+ Hits at -147 (60% implied) CASHED; 1+ Singles at +123 (45% implied) missed; 1+ Total Bases at -150 (60% implied) CASHED; 1+ RBIs at +235 (30% implied) CASHED; 1+ Runs at +163 (38% implied) CASHED; 2+ H+R+RBI at +123 (45% implied) CASHED.
+- Tommy Edman: 2-for-4, RBI. Props: 1+ Hits at -180 (64% implied) CASHED; 1+ Singles at +101 (50% implied) CASHED; 1+ Total Bases at -175 (64% implied) CASHED; 2+ Home Runs at +13000 (1% implied) missed; 1+ RBIs at +217 (32% implied) CASHED; 1+ Runs at +130 (43% implied) missed; 2+ H+R+RBI at +102 (50% implied) CASHED.

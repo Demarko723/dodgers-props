@@ -1,0 +1,63 @@
+date,opponent,player,stat_line,prop,odds,book,implied_prob,actual,result
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",2+ Hits,+193,draftkings,0.341,1,missed
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",1+ Singles,-147,draftkings,0.595,0,missed
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",2+ Total Bases,+113,draftkings,0.469,4,cashed
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",2+ Home Runs,+11000,betrivers,0.009,1,missed
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",1+ RBIs,+202,draftkings,0.331,1,cashed
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",1+ Runs,-117,draftkings,0.539,1,cashed
+2026-09-26,San Francisco Giants,Mookie Betts,"1-for-5, HR, RBI, R",2+ H+R+RBI,-150,draftkings,0.6,3,cashed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,2+ Hits,+180,draftkings,0.357,1,missed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,1+ Singles,-113,draftkings,0.531,1,cashed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,2+ Total Bases,-112,draftkings,0.528,1,missed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,2+ Home Runs,+1800,betrivers,0.053,0,missed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,1+ RBIs,+134,draftkings,0.427,0,missed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,1+ Runs,-130,draftkings,0.565,0,missed
+2026-09-26,San Francisco Giants,Shohei Ohtani,1-for-5,3+ H+R+RBI,+117,draftkings,0.461,1,missed
+2026-09-26,San Francisco Giants,Will Smith,"1-for-3, R",1+ Hits,-228,draftkings,0.695,1,cashed
+2026-09-26,San Francisco Giants,Will Smith,"1-for-3, R",1+ Singles,-109,draftkings,0.522,1,cashed
+2026-09-26,San Francisco Giants,Will Smith,"1-for-3, R",2+ Total Bases,+122,draftkings,0.45,1,missed
+2026-09-26,San Francisco Giants,Will Smith,"1-for-3, R",1+ RBIs,+165,draftkings,0.377,0,missed
+2026-09-26,San Francisco Giants,Will Smith,"1-for-3, R",1+ Runs,+111,draftkings,0.474,1,cashed
+2026-09-26,San Francisco Giants,Will Smith,"1-for-3, R",2+ H+R+RBI,-124,draftkings,0.554,2,cashed
+2026-09-26,San Francisco Giants,Hunter Feduccia,0-for-1,1+ Hits,-156,betonlineag,0.609,0,missed
+2026-09-26,San Francisco Giants,Hunter Feduccia,0-for-1,1+ Total Bases,-149,betonlineag,0.598,0,missed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",1+ Hits,-231,draftkings,0.698,1,cashed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",1+ Singles,-104,draftkings,0.51,0,missed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",2+ Total Bases,+118,draftkings,0.459,2,cashed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",2+ Home Runs,+3500,betrivers,0.028,0,missed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",1+ RBIs,+150,draftkings,0.4,0,missed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",1+ Runs,+105,draftkings,0.488,0,missed
+2026-09-26,San Francisco Giants,Teoscar Hernández,"1-for-3, 2B",2+ H+R+RBI,-129,draftkings,0.563,1,missed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",1+ Hits,-219,draftkings,0.687,1,cashed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",1+ Singles,-105,draftkings,0.512,1,cashed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",2+ Total Bases,+133,draftkings,0.429,1,missed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",2+ Home Runs,+9000,betrivers,0.011,0,missed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",1+ RBIs,+178,draftkings,0.36,0,missed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",1+ Runs,+110,draftkings,0.476,1,cashed
+2026-09-26,San Francisco Giants,Kyle Tucker,"1-for-3, R, BB",2+ H+R+RBI,-124,draftkings,0.554,2,cashed
+2026-09-26,San Francisco Giants,Miguel Rojas,"1-for-3, RBI, BB",1+ Hits,-166,draftkings,0.624,1,cashed
+2026-09-26,San Francisco Giants,Miguel Rojas,"1-for-3, RBI, BB",1+ Singles,+107,draftkings,0.483,1,cashed
+2026-09-26,San Francisco Giants,Miguel Rojas,"1-for-3, RBI, BB",1+ Total Bases,-150,betmgm,0.6,1,cashed
+2026-09-26,San Francisco Giants,Miguel Rojas,"1-for-3, RBI, BB",1+ RBIs,+233,draftkings,0.3,1,cashed
+2026-09-26,San Francisco Giants,Miguel Rojas,"1-for-3, RBI, BB",1+ Runs,+154,draftkings,0.394,0,missed
+2026-09-26,San Francisco Giants,Miguel Rojas,"1-for-3, RBI, BB",2+ H+R+RBI,+113,draftkings,0.469,2,cashed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",1+ Hits,-212,draftkings,0.679,0,missed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",1+ Singles,-104,draftkings,0.51,0,missed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",2+ Total Bases,+134,draftkings,0.427,0,missed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",2+ Home Runs,+4500,betrivers,0.022,0,missed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",1+ RBIs,+165,draftkings,0.377,0,missed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",1+ Runs,+111,draftkings,0.474,0,missed
+2026-09-26,San Francisco Giants,Andy Pages,"0-for-3, BB",2+ H+R+RBI,-117,draftkings,0.539,0,missed
+2026-09-26,San Francisco Giants,Enrique Hernández,"1-for-4, HR, RBI, R",1+ Hits,-147,draftkings,0.595,1,cashed
+2026-09-26,San Francisco Giants,Enrique Hernández,"1-for-4, HR, RBI, R",1+ Singles,+123,draftkings,0.448,0,missed
+2026-09-26,San Francisco Giants,Enrique Hernández,"1-for-4, HR, RBI, R",1+ Total Bases,-150,betmgm,0.6,4,cashed
+2026-09-26,San Francisco Giants,Enrique Hernández,"1-for-4, HR, RBI, R",1+ RBIs,+235,draftkings,0.299,1,cashed
+2026-09-26,San Francisco Giants,Enrique Hernández,"1-for-4, HR, RBI, R",1+ Runs,+163,draftkings,0.38,1,cashed
+2026-09-26,San Francisco Giants,Enrique Hernández,"1-for-4, HR, RBI, R",2+ H+R+RBI,+123,draftkings,0.448,3,cashed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",1+ Hits,-180,draftkings,0.643,2,cashed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",1+ Singles,+101,draftkings,0.498,2,cashed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",1+ Total Bases,-175,betmgm,0.636,2,cashed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",2+ Home Runs,+13000,betrivers,0.008,0,missed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",1+ RBIs,+217,draftkings,0.315,1,cashed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",1+ Runs,+130,draftkings,0.435,0,missed
+2026-09-26,San Francisco Giants,Tommy Edman,"2-for-4, RBI",2+ H+R+RBI,+102,draftkings,0.495,3,cashed
