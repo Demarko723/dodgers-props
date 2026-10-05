@@ -1,0 +1,23 @@
+Write a 60-90 second voiceover script for a short-form video recapping the
+Los Angeles Dodgers hitters from October 4 (vs Atlanta Braves).
+
+Rules:
+- Use ONLY the facts below. Do not invent stats, injuries, or context.
+- Lead with the biggest story (best performance or most surprising prop result).
+- For each prop mentioned, say the odds and what the implied probability means in plain words.
+- Plus-money props that cashed and heavy favorites that missed are the most interesting — prioritize them.
+- Frame as a recap of what happened, not betting advice or tomorrow's picks.
+- Conversational, punchy, no filler. End with a one-line hook to follow for tomorrow's recap.
+
+Facts:
+- Mookie Betts: 0-for-2, 2 BB. Props: 1+ Hits at -228 (70% implied) missed; 1+ Singles at -111 (53% implied) missed; 2+ Total Bases at +126 (44% implied) missed; 2+ Home Runs at +6600 (1% implied) missed; 1+ RBIs at +202 (33% implied) missed; 1+ Runs at -109 (52% implied) missed; 2+ H+R+RBI at -127 (56% implied) missed.
+- Shohei Ohtani: 1-for-4. Props: 1+ Hits at -212 (68% implied) CASHED; 1+ Singles at +125 (44% implied) CASHED; 2+ Total Bases at +107 (48% implied) missed; 2+ Home Runs at +2200 (4% implied) missed; 1+ RBIs at +149 (40% implied) missed; 1+ Runs at -125 (56% implied) missed; 2+ H+R+RBI at -132 (57% implied) missed.
+- Will Smith: 0-for-4. Props: 1+ Hits at -209 (68% implied) missed; 1+ Singles at +110 (48% implied) missed; 2+ Total Bases at +127 (44% implied) missed; 2+ Home Runs at +4000 (2% implied) missed; 1+ RBIs at +157 (39% implied) missed; 1+ Runs at +107 (48% implied) missed; 2+ H+R+RBI at -119 (54% implied) missed.
+- Freddie Freeman: 2-for-4, HR, RBI, R. Props: 1+ Hits at -199 (67% implied) CASHED; 1+ Singles at -102 (50% implied) CASHED; 2+ Total Bases at +145 (41% implied) CASHED; 2+ Home Runs at +8000 (1% implied) missed; 1+ RBIs at +177 (36% implied) CASHED; 1+ Runs at +120 (45% implied) CASHED; 2+ H+R+RBI at -112 (53% implied) CASHED.
+- Teoscar Hernández: 0-for-4. Props: 1+ Hits at -203 (67% implied) missed; 1+ Singles at +113 (47% implied) missed; 2+ Total Bases at +123 (45% implied) missed; 2+ Home Runs at +5500 (2% implied) missed; 1+ RBIs at +157 (39% implied) missed; 1+ Runs at +109 (48% implied) missed; 2+ H+R+RBI at -118 (54% implied) missed.
+- Kyle Tucker: 1-for-4. Props: 1+ Hits at -183 (65% implied) CASHED; 1+ Singles at +114 (47% implied) CASHED; 1+ Total Bases at -190 (66% implied) CASHED; 2+ Home Runs at +7500 (1% implied) missed; 1+ RBIs at +176 (36% implied) missed; 1+ Runs at +124 (45% implied) missed; 2+ H+R+RBI at -103 (51% implied) missed.
+- Andy Pages: 0-for-3, BB. Props: 1+ Hits at -182 (65% implied) missed; 1+ Singles at +115 (47% implied) missed; 2+ Total Bases at +145 (41% implied) missed; 2+ Home Runs at +7500 (1% implied) missed; 1+ RBIs at +186 (35% implied) missed; 1+ Runs at +133 (43% implied) missed; 2+ H+R+RBI at +101 (50% implied) missed.
+- Miguel Rojas: 1-for-1, 2B. Props: 1+ Hits at -141 (59% implied) CASHED; 2+ Home Runs at +16000 (1% implied) missed; 1+ RBIs at +205 (33% implied) missed; 1+ H+R+RBI at -115 (53% implied) CASHED.
+- Max Muncy: 1-for-3, HR, RBI, R. Props: 1+ Hits at -143 (59% implied) CASHED; 1+ Total Bases at -114 (53% implied) CASHED.
+- Tommy Edman: 0-for-3. Props: 1+ Hits at -154 (61% implied) missed; 1+ Singles at +124 (45% implied) missed; 1+ Total Bases at -165 (62% implied) missed; 2+ Home Runs at +11000 (1% implied) missed; 1+ RBIs at +190 (34% implied) missed; 1+ Runs at +145 (41% implied) missed; 2+ H+R+RBI at +113 (47% implied) missed.
+- Josue De Paula: 0-for-1.
