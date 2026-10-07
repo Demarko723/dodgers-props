@@ -1,0 +1,64 @@
+date,opponent,player,stat_line,prop,odds,book,implied_prob,actual,result
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,1+ Hits,-207,draftkings,0.674,2,cashed
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,1+ Singles,-104,draftkings,0.51,2,cashed
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,2+ Total Bases,+135,draftkings,0.426,2,cashed
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,2+ Home Runs,+7000,betrivers,0.014,0,missed
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,1+ RBIs,+257,draftkings,0.28,0,missed
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,1+ Runs,+144,draftkings,0.41,0,missed
+2026-10-06,Atlanta Braves,Mookie Betts,2-for-5,2+ H+R+RBI,+103,draftkings,0.493,2,cashed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",1+ Hits,-185,draftkings,0.649,1,cashed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",1+ Singles,-107,draftkings,0.517,0,missed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",1+ Total Bases,-175,betmgm,0.636,4,cashed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",2+ Home Runs,+16000,betrivers,0.006,1,missed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",1+ RBIs,+287,draftkings,0.258,1,cashed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",1+ Runs,+168,draftkings,0.373,1,cashed
+2026-10-06,Atlanta Braves,Freddie Freeman,"1-for-4, HR, RBI, R, BB",2+ H+R+RBI,+118,draftkings,0.459,3,cashed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,1+ Hits,-168,draftkings,0.627,0,missed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,1+ Singles,+118,draftkings,0.459,0,missed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,1+ Total Bases,-160,betmgm,0.615,0,missed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,2+ Home Runs,+9000,betrivers,0.011,0,missed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,1+ RBIs,+242,draftkings,0.292,0,missed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,1+ Runs,+175,draftkings,0.364,0,missed
+2026-10-06,Atlanta Braves,Teoscar Hernández,0-for-4,2+ H+R+RBI,+124,draftkings,0.446,0,missed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,1+ Hits,-153,draftkings,0.605,1,cashed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,1+ Singles,+124,draftkings,0.446,1,cashed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,1+ Total Bases,-160,betmgm,0.615,1,cashed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,2+ Home Runs,+6600,betrivers,0.015,0,missed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,1+ RBIs,+217,draftkings,0.315,0,missed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,1+ Runs,+161,draftkings,0.383,0,missed
+2026-10-06,Atlanta Braves,Will Smith,1-for-4,2+ H+R+RBI,+124,draftkings,0.446,1,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",1+ Hits,-149,draftkings,0.598,0,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",1+ Singles,+139,draftkings,0.418,0,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",1+ Total Bases,-150,betmgm,0.6,0,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",2+ Home Runs,+4500,betrivers,0.022,0,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",1+ RBIs,+231,draftkings,0.302,0,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",1+ Runs,+148,draftkings,0.403,0,missed
+2026-10-06,Atlanta Braves,Shohei Ohtani,"0-for-2, BB",2+ H+R+RBI,+122,draftkings,0.45,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,1+ Hits,-122,draftkings,0.55,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,1+ Singles,+136,draftkings,0.424,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,1+ Total Bases,-125,betmgm,0.556,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,2+ Home Runs,+32500,betrivers,0.003,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,1+ RBIs,+392,draftkings,0.203,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,1+ Runs,+263,draftkings,0.275,0,missed
+2026-10-06,Atlanta Braves,Miguel Rojas,0-for-3,1+ H+R+RBI,-141,draftkings,0.585,0,missed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",1+ Hits,-145,draftkings,0.592,2,cashed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",1+ Singles,+127,draftkings,0.441,2,cashed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",1+ Total Bases,-155,betmgm,0.608,2,cashed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",2+ Home Runs,+12500,betrivers,0.008,0,missed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",1+ RBIs,+267,draftkings,0.272,0,missed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",1+ Runs,+182,draftkings,0.355,1,cashed
+2026-10-06,Atlanta Braves,Andy Pages,"2-for-4, R",1+ H+R+RBI,-181,draftkings,0.644,3,cashed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",1+ Hits,-144,draftkings,0.59,1,cashed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",1+ Singles,+123,draftkings,0.448,1,cashed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",1+ Total Bases,-140,betmgm,0.583,1,cashed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",2+ Home Runs,+12000,betrivers,0.008,0,missed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",1+ RBIs,+281,draftkings,0.262,0,missed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",1+ Runs,+193,draftkings,0.341,0,missed
+2026-10-06,Atlanta Braves,Kyle Tucker,"1-for-4, SB",1+ H+R+RBI,-175,draftkings,0.636,1,cashed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",1+ Hits,+104,draftkings,0.49,1,cashed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",1+ Singles,+180,draftkings,0.357,0,missed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",1+ Total Bases,+100,betmgm,0.5,4,cashed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",2+ Home Runs,+20000,betrivers,0.005,1,missed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",1+ RBIs,+351,draftkings,0.222,2,cashed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",1+ Runs,+260,draftkings,0.278,1,cashed
+2026-10-06,Atlanta Braves,Enrique Hernández,"1-for-4, HR, 2 RBI, R",1+ H+R+RBI,-112,draftkings,0.528,4,cashed
