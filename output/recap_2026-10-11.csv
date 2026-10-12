@@ -1,0 +1,64 @@
+date,opponent,player,stat_line,prop,odds,book,implied_prob,actual,result
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",1+ Hits,-216,draftkings,0.684,1,cashed
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",1+ Singles,-124,draftkings,0.554,1,cashed
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",2+ Total Bases,+147,draftkings,0.405,1,missed
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",2+ Home Runs,+14000,betrivers,0.007,0,missed
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",1+ RBIs,+282,draftkings,0.262,0,missed
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",1+ Runs,+145,draftkings,0.408,0,missed
+2026-10-11,Milwaukee Brewers,Mookie Betts,"1-for-4, BB",2+ H+R+RBI,+103,draftkings,0.493,1,missed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,1+ Hits,-147,draftkings,0.595,1,cashed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,1+ Singles,+114,draftkings,0.467,1,cashed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,1+ Total Bases,-150,betmgm,0.6,1,cashed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,2+ Home Runs,+20000,betrivers,0.005,0,missed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,1+ RBIs,+303,draftkings,0.248,0,missed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,1+ Runs,+188,draftkings,0.347,0,missed
+2026-10-11,Milwaukee Brewers,Freddie Freeman,1-for-4,1+ H+R+RBI,-179,draftkings,0.642,1,cashed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",1+ Hits,-165,draftkings,0.623,0,missed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",1+ Singles,+100,draftkings,0.5,0,missed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",1+ Total Bases,-140,betmgm,0.583,0,missed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",2+ Home Runs,+10000,betrivers,0.01,0,missed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",1+ RBIs,+244,draftkings,0.291,0,missed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",1+ Runs,+170,draftkings,0.37,0,missed
+2026-10-11,Milwaukee Brewers,Will Smith,"0-for-3, BB",2+ H+R+RBI,+127,draftkings,0.441,0,missed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",1+ Hits,-134,draftkings,0.573,1,cashed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",1+ Singles,+156,draftkings,0.391,1,cashed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",1+ Total Bases,-115,betmgm,0.535,1,cashed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",2+ Home Runs,+4500,betrivers,0.022,0,missed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",1+ RBIs,+220,draftkings,0.312,0,missed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",1+ Runs,+161,draftkings,0.383,1,cashed
+2026-10-11,Milwaukee Brewers,Shohei Ohtani,"1-for-3, R, BB",1+ H+R+RBI,-171,draftkings,0.631,2,cashed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,1+ Hits,-133,draftkings,0.571,2,cashed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,1+ Singles,+129,draftkings,0.437,2,cashed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,1+ Total Bases,-125,betmgm,0.556,2,cashed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,2+ Home Runs,+10000,betrivers,0.01,0,missed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,1+ RBIs,+263,draftkings,0.275,0,missed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,1+ Runs,+192,draftkings,0.342,0,missed
+2026-10-11,Milwaukee Brewers,Teoscar Hernández,2-for-4,1+ H+R+RBI,-164,draftkings,0.621,2,cashed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,1+ Hits,-106,draftkings,0.515,1,cashed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,1+ Singles,+184,draftkings,0.352,1,cashed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,1+ Total Bases,+120,betmgm,0.455,1,cashed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,2+ Home Runs,+8000,betrivers,0.012,0,missed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,1+ RBIs,+286,draftkings,0.259,0,missed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,1+ Runs,+187,draftkings,0.348,0,missed
+2026-10-11,Milwaukee Brewers,Max Muncy,1-for-4,1+ H+R+RBI,-138,draftkings,0.58,1,cashed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",1+ Hits,-124,draftkings,0.554,1,cashed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",1+ Singles,+130,draftkings,0.435,1,cashed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",1+ Total Bases,-130,betmgm,0.565,1,cashed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",2+ Home Runs,+16000,betrivers,0.006,0,missed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",1+ RBIs,+319,draftkings,0.239,1,cashed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",1+ Runs,+197,draftkings,0.337,0,missed
+2026-10-11,Milwaukee Brewers,Andy Pages,"1-for-4, RBI",1+ H+R+RBI,-161,draftkings,0.617,2,cashed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",1+ Hits,-117,draftkings,0.539,0,missed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",1+ Singles,+144,draftkings,0.41,0,missed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",1+ Total Bases,-105,betmgm,0.512,0,missed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",2+ Home Runs,+16000,betrivers,0.006,0,missed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",1+ RBIs,+304,draftkings,0.248,0,missed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",1+ Runs,+195,draftkings,0.339,0,missed
+2026-10-11,Milwaukee Brewers,Kyle Tucker,"0-for-2, 2 BB",1+ H+R+RBI,-153,draftkings,0.605,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Hits,-101,draftkings,0.502,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Singles,+161,draftkings,0.383,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Total Bases,+110,betmgm,0.476,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,2+ Home Runs,+18000,betrivers,0.006,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ RBIs,+366,draftkings,0.215,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Runs,+244,draftkings,0.291,0,missed
+2026-10-11,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ H+R+RBI,-122,draftkings,0.55,0,missed
