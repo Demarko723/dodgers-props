@@ -1,0 +1,721 @@
+[
+  {
+    "event_id": "ab3e5655be6b32e0853d683e51a60baa",
+    "commence_time": "2026-10-16T00:00:00Z",
+    "home_team": "Los Angeles Dodgers",
+    "away_team": "Milwaukee Brewers",
+    "pulled_at": "2026-10-15T22:55:38Z",
+    "props": {
+      "mookie betts": {
+        "display": "Mookie Betts",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -242
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -123
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 199
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 115
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -125
+          },
+          "batter_total_bases": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 126
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 8000
+          }
+        }
+      },
+      "shohei ohtani": {
+        "display": "Shohei Ohtani",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -225
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -129
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 196
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -108
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -103
+          },
+          "batter_total_bases": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 122
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 5500
+          }
+        }
+      },
+      "jackson chourio": {
+        "display": "Jackson Chourio",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -224
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -116
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 200
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 118
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -122
+          },
+          "batter_total_bases": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 133
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 7500
+          }
+        }
+      },
+      "kyle tucker": {
+        "display": "Kyle Tucker",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -205
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -112
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 187
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 124
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -106
+          },
+          "batter_total_bases": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 147
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 11000
+          }
+        }
+      },
+      "freddie freeman": {
+        "display": "Freddie Freeman",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -203
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -107
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 213
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 135
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -115
+          },
+          "batter_total_bases": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 149
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 10000
+          }
+        }
+      },
+      "william contreras": {
+        "display": "William Contreras",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -199
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -101
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 200
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 145
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -107
+          },
+          "batter_total_bases": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 146
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 11000
+          }
+        }
+      },
+      "will smith": {
+        "display": "Will Smith",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -197
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": -112
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 175
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 119
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 104
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -185
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 8000
+          }
+        }
+      },
+      "teoscar hernandez": {
+        "display": "Teoscar Hernandez",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -184
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 102
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 199
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 147
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 100
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -175
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 10000
+          }
+        }
+      },
+      "andy pages": {
+        "display": "Andy Pages",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -176
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 105
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 210
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 142
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 103
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -165
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 12500
+          }
+        }
+      },
+      "brice turang": {
+        "display": "Brice Turang",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -149
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 128
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 277
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 154
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 116
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -160
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 18000
+          }
+        }
+      },
+      "cooper pratt": {
+        "display": "Cooper Pratt",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -138
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -176
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 275
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 191
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 107
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -125
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 30000
+          }
+        }
+      },
+      "sal frelick": {
+        "display": "Sal Frelick",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -133
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -165
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 303
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 221
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 107
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -150
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 35000
+          }
+        }
+      },
+      "christian yelich": {
+        "display": "Christian Yelich",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -132
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -180
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 266
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 181
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 123
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -145
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 18000
+          }
+        }
+      },
+      "garrett mitchell": {
+        "display": "Garrett Mitchell",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -126
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -175
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 275
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 178
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 134
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -115
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 18000
+          }
+        }
+      },
+      "jake bauers": {
+        "display": "Jake Bauers",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -122
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 1.5,
+            "price": 133
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 219
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 144
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 163
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -115
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 9000
+          }
+        }
+      },
+      "david hamilton": {
+        "display": "David Hamilton",
+        "lines": {
+          "batter_hits": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 109
+          },
+          "batter_hits_runs_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": -120
+          },
+          "batter_rbis": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 362
+          },
+          "batter_runs_scored": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 241
+          },
+          "batter_singles": {
+            "book": "draftkings",
+            "point": 0.5,
+            "price": 170
+          },
+          "batter_total_bases": {
+            "book": "mybookieag",
+            "point": 0.5,
+            "price": 104
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 40000
+          }
+        }
+      },
+      "miguel rojas": {
+        "display": "Miguel Rojas",
+        "lines": {
+          "batter_hits": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 110
+          },
+          "batter_rbis": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 260
+          },
+          "batter_runs_scored": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 200
+          },
+          "batter_singles": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 180
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 110
+          }
+        }
+      },
+      "enrique hernandez": {
+        "display": "Enrique Hernandez",
+        "lines": {
+          "batter_hits": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -105
+          },
+          "batter_hits_runs_rbis": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -135
+          },
+          "batter_rbis": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 230
+          },
+          "batter_runs_scored": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 175
+          },
+          "batter_singles": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": 155
+          },
+          "batter_total_bases": {
+            "book": "betmgm",
+            "point": 0.5,
+            "price": -115
+          },
+          "batter_home_runs": {
+            "book": "betrivers",
+            "point": 1.5,
+            "price": 20000
+          }
+        }
+      }
+    }
+  }
+]
