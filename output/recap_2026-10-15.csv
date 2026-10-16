@@ -1,0 +1,57 @@
+date,opponent,player,stat_line,prop,odds,book,implied_prob,actual,result
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",1+ Hits,-225,draftkings,0.692,1,cashed
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",1+ Singles,-103,draftkings,0.507,0,missed
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",2+ Total Bases,+122,draftkings,0.45,4,cashed
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",2+ Home Runs,+5500,betrivers,0.018,1,missed
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",1+ RBIs,+196,draftkings,0.338,3,cashed
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",1+ Runs,-108,draftkings,0.519,1,cashed
+2026-10-15,Milwaukee Brewers,Shohei Ohtani,"1-for-4, HR, 3 RBI, R",2+ H+R+RBI,-129,draftkings,0.563,5,cashed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",1+ Hits,-242,draftkings,0.708,0,missed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",1+ Singles,-125,draftkings,0.556,0,missed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",2+ Total Bases,+126,draftkings,0.442,0,missed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",2+ Home Runs,+8000,betrivers,0.012,0,missed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",1+ RBIs,+199,draftkings,0.334,0,missed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",1+ Runs,+115,draftkings,0.465,0,missed
+2026-10-15,Milwaukee Brewers,Mookie Betts,"0-for-3, BB",2+ H+R+RBI,-123,draftkings,0.552,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",1+ Hits,-203,draftkings,0.67,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",1+ Singles,-115,draftkings,0.535,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",2+ Total Bases,+149,draftkings,0.402,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",2+ Home Runs,+10000,betrivers,0.01,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",1+ RBIs,+213,draftkings,0.319,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",1+ Runs,+135,draftkings,0.426,0,missed
+2026-10-15,Milwaukee Brewers,Freddie Freeman,"0-for-3, BB",2+ H+R+RBI,-107,draftkings,0.517,0,missed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",1+ Hits,-197,draftkings,0.663,1,cashed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",1+ Singles,+104,draftkings,0.49,0,missed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",1+ Total Bases,-185,betmgm,0.649,2,cashed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",2+ Home Runs,+8000,betrivers,0.012,0,missed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",1+ RBIs,+175,draftkings,0.364,0,missed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",1+ Runs,+119,draftkings,0.457,0,missed
+2026-10-15,Milwaukee Brewers,Will Smith,"1-for-4, 2B",2+ H+R+RBI,-112,draftkings,0.528,1,missed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",1+ Hits,-205,draftkings,0.672,2,cashed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",1+ Singles,-106,draftkings,0.515,1,cashed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",2+ Total Bases,+147,draftkings,0.405,3,cashed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",2+ Home Runs,+11000,betrivers,0.009,0,missed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",1+ RBIs,+187,draftkings,0.348,0,missed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",1+ Runs,+124,draftkings,0.446,1,cashed
+2026-10-15,Milwaukee Brewers,Kyle Tucker,"2-for-4, 2B, R",2+ H+R+RBI,-112,draftkings,0.528,3,cashed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",1+ Hits,-184,draftkings,0.648,1,cashed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",1+ Singles,+100,draftkings,0.5,1,cashed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",1+ Total Bases,-175,betmgm,0.636,1,cashed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",2+ Home Runs,+10000,betrivers,0.01,0,missed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",1+ RBIs,+199,draftkings,0.334,0,missed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",1+ Runs,+147,draftkings,0.405,1,cashed
+2026-10-15,Milwaukee Brewers,Teoscar Hernández,"1-for-4, R",2+ H+R+RBI,+102,draftkings,0.495,2,cashed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",1+ Hits,-176,draftkings,0.638,2,cashed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",1+ Singles,+103,draftkings,0.493,1,cashed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",1+ Total Bases,-165,betmgm,0.623,3,cashed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",2+ Home Runs,+12500,betrivers,0.008,0,missed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",1+ RBIs,+210,draftkings,0.323,1,cashed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",1+ Runs,+142,draftkings,0.413,1,cashed
+2026-10-15,Milwaukee Brewers,Andy Pages,"2-for-4, 2B, RBI, R",2+ H+R+RBI,+105,draftkings,0.488,4,cashed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Hits,-105,betmgm,0.512,0,missed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Singles,+155,betmgm,0.392,0,missed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Total Bases,-115,betmgm,0.535,0,missed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,2+ Home Runs,+20000,betrivers,0.005,0,missed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ RBIs,+230,betmgm,0.303,0,missed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ Runs,+175,betmgm,0.364,0,missed
+2026-10-15,Milwaukee Brewers,Enrique Hernández,0-for-3,1+ H+R+RBI,-135,betmgm,0.574,0,missed
